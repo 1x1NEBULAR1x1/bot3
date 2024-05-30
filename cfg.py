@@ -1,10 +1,10 @@
 #токен бота
 # токен бота можно получить у @BotFather
 # записывать в кавычках
-TOKEN = "7098192641:AAFuG5cv7ehDHuGPjA4EMW0TO67FwZcinTU"
+TOKEN = "7493737336:AAFtC_DjqxK3DEFniOHbmgX71ep42hfI4bY"
 # ID админов, узнать свой ID можно через бота @getmyid_bot
 # id записывать через запятую
-ADMINS_IDS = [644639853]
+ADMINS_IDS = [644639853, 6950213934]
 
 
 
