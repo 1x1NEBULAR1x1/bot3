@@ -1,8 +1,6 @@
 import asyncio
 import datetime
 import re
-
-import requests
 from aiogram import Router, Bot, F
 from aiogram.fsm.context import FSMContext
 from aiogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
