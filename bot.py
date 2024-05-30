@@ -1,6 +1,5 @@
 from aiogram import Dispatcher, Bot
 from apscheduler.schedulers.asyncio import AsyncIOScheduler
-import requests
 from fsm import FSM
 from db import create_tables
 from heandlers import heandlers, accept_sending
